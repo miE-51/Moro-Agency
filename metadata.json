@@ -1,0 +1,7 @@
+{
+  "name": "Moro Digital Agency Platform",
+  "description": "A comprehensive management and client portal for a digital agency specializing in bot development, web design, and video editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
